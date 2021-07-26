@@ -3,7 +3,7 @@ Grafana
 https://www.youtube.com/watch?v=-8Wn2UzVFzI
 456
 123
-
+new edit
 Installation at Ubuntu 18.04
 
 At AWS create an one instance 
